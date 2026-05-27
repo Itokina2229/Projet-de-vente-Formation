@@ -1,7 +1,7 @@
 import React from 'react'
 import { Clock, Users, Award } from 'lucide-react'
 import Business from "../img/Business.png"
-import cils from "../img/cils_Russe.png"
+import cils from "../img/Cils_Russe.png"
 import Deco from "../img/Decoration.png"
 import Ongle from "../img/Onglerie.png"
 import Poses from "../img/Pose_cils.png"
