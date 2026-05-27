@@ -1,8 +1,8 @@
 import React from 'react'
-import cilRusse from "../img/Cils_Russe.jfif"
-import Ongle from "../img/Onglerie.jfif"
-import deco from "../img/Decoration.jfif"
-import avant from "../img/Avant.jfif"
+import cilRusse from "../img/Cils_Russe.png"
+import Ongle from "../img/Onglerie.png"
+import deco from "../img/Decoration.png"
+import avant from "../img/Avant.png"
 import photo from "../img/Pink_Chrome_on_Coffin_Nails-removebg-preview.png"
 import image from "../img/image.png"
 

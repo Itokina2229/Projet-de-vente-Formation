@@ -1,10 +1,10 @@
 import React from 'react'
 import { ShoppingCart , CheckIcon , PhoneIcon } from 'lucide-react'
-import Avant from "../img/Avant.jfif"
-import Apres from "../img/Decoration.jfif"
-import lampe from "../img/L.jfif"
-import kit from "../img/kit.jfif"
-import oeuil from "../img/oeuil.jfif"
+import Avant from "../img/Avant.png"
+import Apres from "../img/Decoration.png"
+import lampe from "../img/L.png"
+import kit from "../img/kit.png"
+import oeuil from "../img/oeuil.png"
 
 const courses = [
   {

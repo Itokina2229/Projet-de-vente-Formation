@@ -2,8 +2,8 @@ import React from 'react'
 import { Star } from 'lucide-react'
 import { BookOpenText , CheckCircle2 , BadgeCheck , Users } from 'lucide-react';
 import formation from "../img/Business.png"
-import Ongle from "../img/Onglerie.jfif"
-import deco from "../img/Decoration.jfif"
+import Ongle from "../img/Onglerie.png"
+import deco from "../img/Decoration.png"
 
 
 const testimonials = [

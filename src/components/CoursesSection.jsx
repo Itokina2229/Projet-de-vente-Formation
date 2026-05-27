@@ -1,10 +1,10 @@
 import React from 'react'
 import { Clock, Users, Award } from 'lucide-react'
 import Business from "../img/Business.png"
-import cils from "../img/cils_Russe.jfif"
-import Deco from "../img/Decoration.jfif"
-import Ongle from "../img/Onglerie.jfif"
-import Poses from "../img/Pose_cils.jfif"
+import cils from "../img/cils_Russe.png"
+import Deco from "../img/Decoration.png"
+import Ongle from "../img/Onglerie.png"
+import Poses from "../img/Pose_cils.png"
 
 const courses = [
   {
