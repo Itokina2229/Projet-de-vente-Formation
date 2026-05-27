@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply bg-light text-dark;
+  }
+
+  body {
+    @apply font-sans;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-primary text-white rounded-full font-medium hover:bg-accent transition-colors;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 border-2 border-primary text-primary rounded-full font-medium hover:bg-primary hover:text-white transition-colors;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-dark text-balance;
+  }
+
+  .section-subtitle {
+    @apply text-lg text-gray-600 text-balance;
+  }
+  .btn{
+     @apply px-4 py-2 bg-white text-black  font-medium border-2 hover:bg-light transition-colors;
+  }
+}
